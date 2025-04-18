@@ -11,5 +11,6 @@ Le but final est de maintenir à jour la traduction française du jeu directemen
 Mettre les fichiers
   - warzone2100.mo
   - warzone2100_guide.mo
+    
 dans le dossier ...\Warzone 2100\locale\fr\LC_MESSAGES (en gardant de côté les fichiers déjà présents).
 Ils seront pris en compte au redémarrage du jeu.
