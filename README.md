@@ -14,3 +14,6 @@ Mettre les fichiers
     
 dans le dossier ...\Warzone 2100\locale\fr\LC_MESSAGES (en gardant de côté les fichiers déjà présents).
 Ils seront pris en compte au redémarrage du jeu.
+
+
+Lien vers les vidéos en français : https://buildbot.wz2100.net/files/vids/
